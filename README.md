@@ -1,10 +1,18 @@
 # useful-stuff
 A repo containing links to useful blogs, papers and everything in between (or outside) for ML and data science...
 
+### Data structure
+* __Resource description framework (RDF) data vs relational data__ (https://ontola.io/what-is-linked-data/); Blog post detailing what actually are 'RDF' and 'relational' data types, and how they relate to one another. 
+* __SparQL user demo.__ (https://www.youtube.com/watch?v=FvGndkpa4K0); Video giving examples of how to query using SparQL, which is a Language used to query RDF databases (vs SQL, which is used to query relational databases). 
+
 ### Gaussian processes
 _Plenty of good stuff out there. For the basics I've found the following blogs and videos very helpful_
 * __A visual exploration of GPs__ (https://distill.pub/2019/visual-exploration-gaussian-processes/); nice and interactive blog post.
 * __GPs, not quite for dummies__ (https://yugeten.github.io/posts/2019/09/GP/); again, another nice blog post that explains things simply and has a link to an informative video on GPs by Richard Turner.
+
+### Graphs
+_From Ontologies to knowledge graphs to learning on graphs_
+* __What's the difference between an _ontology_ and a _knowledge graph_?__ (https://enterprise-knowledge.com/whats-the-difference-between-an-ontology-and-a-knowledge-graph/); A really nice blog post (with a link to the associated white paper), detailing what actually are 'ontologies' and 'knowledge graphs', and how they're related to one another.
 
 ### Loss functions
 _Something I'm still getting to grips with are how we choose and implement our loss functions in various learning algorithms (but mainly DL). Here are some useful links to describe rationals and implementation aspects:_
