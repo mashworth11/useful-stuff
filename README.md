@@ -22,6 +22,10 @@ _Something I'm still getting to grips with are how we choose and implement our l
 _Some interesting works (and blogs) for those using ML technqiues in renewable energy domains:_
 * __Charilaos Mylonas' blog__ (https://mylonasc.github.io/aboutme/): Awesome blog on some really innovative techniques (generative models, graph nets), for failure detection in wind farms (also, his research group https://chatzi.ibk.ethz.ch/ is doing some cool work in this domain). 
 
+### Spiking neural networks
+_Neural networks that convey information through 'spikes' that cause neurons to fire upon reaching some threshold._
+* __Wikipedia__ (https://en.wikipedia.org/wiki/Spiking_neural_network): Has some good stuff for the basic ideas behind how these guys work. Search also for information on *neuromorphic computing*.
+
 ### Time-series modelling
 * __M5 Kaggle forecasting competitions__ for accuracy (https://www.kaggle.com/c/m5-forecasting-accuracy/discussion/163414) and uncertainty (https://www.kaggle.com/c/m5-forecasting-uncertainty/discussion/163415). Has an absolute wealth of information, as one would expect for anything Kaggle related, for time series forecasting.
 * __Hyndman, R.J. and Athanasopoulos, G., 2018. Forecasting: principles and practice. OTexts.__; online book by some of the leaders in the field (https://otexts.com/fpp2/).
