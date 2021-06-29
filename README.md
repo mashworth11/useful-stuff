@@ -18,9 +18,13 @@ _From Ontologies to knowledge graphs to learning on graphs_
 _Something I'm still getting to grips with are how we choose and implement our loss functions in various learning algorithms (but mainly DL). Here are some useful links to describe rationals and implementation aspects:_
 * __Honey I shrunk the target variable__ (https://florianwilhelm.info/2020/05/honey_i_shrunk_the_target_variable/): Besides being an entertaining read from Florian Wilhelm, this is a very informative blog post on target transformations and what these mean for/how they relate to loss functions.
 
+### People to follow for leading research
+* Olga Fink (https://ims.ibi.ethz.ch/people/prof-dr-olga-fink.html): Data-driven operations and maintenance of complex industrial assets
+
 ### Renewable energy vs machine learning
 _Some interesting works (and blogs) for those using ML technqiues in renewable energy domains:_
 * __Charilaos Mylonas' blog__ (https://mylonasc.github.io/aboutme/): Awesome blog on some really innovative techniques (generative models, graph nets), for failure detection in wind farms (also, his research group https://chatzi.ibk.ethz.ch/ is doing some cool work in this domain). 
+* __Joyjit Chatterjee's blog__ (https://joyjitchatterjee.github.io/): Again, doing some very interesting work at the interesection between AI and wind energy operations and management. 
 
 ### Spiking neural networks
 _Neural networks that convey information through 'spikes' that cause neurons to fire upon reaching some threshold._
