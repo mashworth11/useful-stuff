@@ -1,6 +1,9 @@
 # useful-stuff
 A repo containing links to useful blogs, papers and everything in between (or outside) for ML and data science...
 
+### Autoencoders
+* __An autoencoders guide__ (https://www.v7labs.com/blog/autoencoders-guide): Noice blog detailing the different flavours of autoencoder.
+
 ### Data structure
 * __Resource description framework (RDF) data vs relational data__ (https://ontola.io/what-is-linked-data/): Blog post detailing what actually are 'RDF' and 'relational' data types, and how they relate to one another. 
 * __SparQL user demo.__ (https://www.youtube.com/watch?v=FvGndkpa4K0): Video giving examples of how to query using SparQL, which is a Language used to query RDF databases (vs SQL, which is used to query relational databases). 
